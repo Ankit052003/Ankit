@@ -55,30 +55,6 @@ I am currently focused on improving my development workflow, strengthening probl
 
 ---
 
-<h2 align="left">GitHub Analytics</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=Ankit052003&hide_border=true&theme=default"
-    alt="GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ankit052003&layout=compact&hide_border=true&theme=default"
-    alt="Top Languages"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Ankit052003&theme=default&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
 <h2 align="left">Contribution Activity</h2>
 
 <p align="center">
