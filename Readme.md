@@ -16,11 +16,29 @@
 
 <h2 align="left">Professional Summary</h2>
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 <p align="justify">
 I am a Full Stack Developer with a strong interest in building scalable, user-focused, and practical web applications.
 My work primarily revolves around modern web technologies, backend development, and solving real-world problems through software.
 I am currently focused on improving my development workflow, strengthening problem-solving skills, and building production-ready projects.
 </p>
+
+</td>
+
+<td width="40%" align="center">
+
+<img 
+  src="./212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" 
+  alt="Coding Animation" 
+  width="320"
+/>
+
+</td>
+</tr>
+</table>
 
 ---
 
