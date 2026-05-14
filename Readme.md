@@ -135,10 +135,12 @@ VS Code • Postman • Figma • IntelliJ IDEA • Copilot • Claude Code • 
 <h2 align="left">Contribution Activity</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit052003&bg_color=ffffff&color=1f2937&line=2563eb&point=2563eb&area=true&hide_border=true"
-    alt="Contribution Graph"
-  />
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit052003&bg_color=0d1117&color=ffffff&line=3b82f6&point=ffffff&area=true&hide_border=true"
+  alt="Contribution Graph"
+/>
+
 </p>
 
 ---
