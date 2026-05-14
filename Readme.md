@@ -20,7 +20,7 @@ Full Stack Developer | MERN Stack | Problem Solver
 
 ---
 
-<h2 align="left">Professional Summary</h2>
+<h2 align="left">🔗 Professional Summary</h2>
 
 <table>
 <tr>
@@ -43,8 +43,9 @@ I am currently focused on improving my development workflow, strengthening probl
 
 <img 
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  width="320"
   alt="Coding Animation"
+  width="100%"
+  style="max-width:350px; height:auto; object-fit:contain; border-radius:10px;"
 />
 
 </td>
@@ -57,21 +58,23 @@ I am currently focused on improving my development workflow, strengthening probl
 <h2 align="left">Selected Work</h2>
 
 <ul>
-  <li>
-    <strong>PrepAI</strong> – Interview preparation platform
-  </li>
 
-  <li>
-    <strong>E-Commerce Website</strong> – Full Stack shopping application
-  </li>
+<li>
+<strong>PrepAI</strong> – Interview preparation platform
+</li>
 
-  <li>
-    <strong>Advanced Weather Station</strong> – Real-time weather application
-  </li>
+<li>
+<strong>E-Commerce Website</strong> – Full Stack shopping application
+</li>
 
-  <li>
-    <strong>Handloom Gathering Website</strong> – Platform for showcasing handloom products
-  </li>
+<li>
+<strong>Advanced Weather Station</strong> – Real-time weather application
+</li>
+
+<li>
+<strong>Handloom Gathering Website</strong> – Platform for showcasing handloom products
+</li>
+
 </ul>
 
 ---
@@ -80,7 +83,9 @@ I am currently focused on improving my development workflow, strengthening probl
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,java,git,github,postman,vscode" />
+<img 
+  src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,java,git,github,postman,vscode" 
+/>
 
 </p>
 
