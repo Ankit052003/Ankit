@@ -25,6 +25,7 @@
 <td width="60%" valign="top">
 
 <p align="justify">
+
 I am a Full Stack Developer with a strong interest in building scalable, user-focused, and practical web applications.
 
 My work primarily revolves around modern web technologies, backend development, and solving real-world problems through software.
@@ -32,6 +33,7 @@ My work primarily revolves around modern web technologies, backend development, 
 I am currently focused on improving my development workflow, strengthening problem-solving skills, and building production-ready projects.
 
 I enjoy learning new technologies, building impactful projects, and continuously improving my skills as a software developer.
+
 </p>
 
 </td>
@@ -55,19 +57,76 @@ I enjoy learning new technologies, building impactful projects, and continuously
 <h2 align="left">Selected Work</h2>
 
 <ul>
-  <li><strong>PrepAI</strong> – Interview preparation platform</li>
-  <li><strong>E-Commerce Website</strong> – Full Stack shopping application</li>
-  <li><strong>Advanced Weather Station</strong> – Real-time weather application</li>
-  <li><strong>Handloom Gathering Website</strong> – Platform for showcasing handloom products</li>
+  <li>
+    <strong>PrepAI</strong> – Interview preparation platform
+  </li>
+
+  <li>
+    <strong>E-Commerce Website</strong> – Full Stack shopping application
+  </li>
+
+  <li>
+    <strong>Advanced Weather Station</strong> – Real-time weather application
+  </li>
+
+  <li>
+    <strong>Handloom Gathering Website</strong> – Platform for showcasing handloom products
+  </li>
 </ul>
 
 ---
 
 <h2 align="left">Technology Stack</h2>
 
+<p>
+
+<strong>Languages:</strong><br>
+C • Java • JavaScript • TypeScript • Python
+
+</p>
+
+<p>
+
+<strong>Frameworks & Libraries:</strong><br>
+React.js • Express.js • Node.js • Tailwind CSS • React Router • React-Toastify • FastAPI
+
+</p>
+
+<p>
+
+<strong>Cloud / DevOps:</strong><br>
+Git • GitHub • Postman • MongoDB Atlas • REST API Testing • Basic Deployment
+
+</p>
+
+<p>
+
+<strong>Databases:</strong><br>
+MySQL • PostgreSQL • MongoDB
+
+</p>
+
+<p>
+
+<strong>Core CS:</strong><br>
+Computer Networks • Operating Systems • SDLC • Cloud Computing
+
+</p>
+
+<p>
+
+<strong>Tools:</strong><br>
+VS Code • Postman • Figma • IntelliJ IDEA • Copilot • Claude Code • n8n
+
+</p>
+
+<br>
+
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,java,postman,git,github,vscode" />
+<img 
+  src="https://skillicons.dev/icons?i=c,java,js,ts,python,react,nodejs,express,tailwind,fastapi,mongodb,mysql,postgres,git,github,postman,vscode,figma,idea" 
+/>
 
 </p>
 
