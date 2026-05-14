@@ -78,8 +78,6 @@ I enjoy learning new technologies, building impactful projects, and continuously
 
 <h2 align="left">Technology Stack</h2>
 
-<br>
-
 <p align="left">
 
 <img 
