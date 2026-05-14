@@ -9,18 +9,46 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankit052003&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile Views" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=ankit052003&label=Profile%20Views&color=1f6feb&style=for-the-badge" 
+    alt="Profile Views" 
+  />
 </p>
 
 ---
 
 <h2 align="left">Professional Summary</h2>
 
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
 <p align="justify">
 I am a Full Stack Developer with a strong interest in building scalable, user-focused, and practical web applications.
+
 My work primarily revolves around modern web technologies, backend development, and solving real-world problems through software.
+
 I am currently focused on improving my development workflow, strengthening problem-solving skills, and building production-ready projects.
+
+I enjoy learning new technologies, building impactful projects, and continuously improving my skills as a software developer.
 </p>
+
+</td>
+
+<td width="40%" align="center">
+
+<img 
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  alt="Coding Animation"
+  width="100%"
+  style="max-width:320px; height:auto; object-fit:contain; border-radius:10px;"
+/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -37,20 +65,10 @@ I am currently focused on improving my development workflow, strengthening probl
 
 <h2 align="left">Technology Stack</h2>
 
-<p>
-  HTML &nbsp;&nbsp;•&nbsp;&nbsp;
-  CSS &nbsp;&nbsp;•&nbsp;&nbsp;
-  JavaScript &nbsp;&nbsp;•&nbsp;&nbsp;
-  TypeScript &nbsp;&nbsp;•&nbsp;&nbsp;
-  React.js &nbsp;&nbsp;•&nbsp;&nbsp;
-  Node.js &nbsp;&nbsp;•&nbsp;&nbsp;
-  Express.js &nbsp;&nbsp;•&nbsp;&nbsp;
-  MongoDB &nbsp;&nbsp;•&nbsp;&nbsp;
-  MySQL &nbsp;&nbsp;•&nbsp;&nbsp;
-  Java &nbsp;&nbsp;•&nbsp;&nbsp;
-  Postman &nbsp;&nbsp;•&nbsp;&nbsp;
-  Git &nbsp;&nbsp;•&nbsp;&nbsp;
-  GitHub
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,java,postman,git,github,vscode" />
+
 </p>
 
 ---
