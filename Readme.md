@@ -78,48 +78,6 @@ I enjoy learning new technologies, building impactful projects, and continuously
 
 <h2 align="left">Technology Stack</h2>
 
-<p>
-
-<strong>Languages:</strong><br>
-C • Java • JavaScript • TypeScript • Python
-
-</p>
-
-<p>
-
-<strong>Frameworks & Libraries:</strong><br>
-React.js • Express.js • Node.js • Tailwind CSS • React Router • React-Toastify • FastAPI
-
-</p>
-
-<p>
-
-<strong>Cloud / DevOps:</strong><br>
-Git • GitHub • Postman • MongoDB Atlas • REST API Testing • Basic Deployment
-
-</p>
-
-<p>
-
-<strong>Databases:</strong><br>
-MySQL • PostgreSQL • MongoDB
-
-</p>
-
-<p>
-
-<strong>Core CS:</strong><br>
-Computer Networks • Operating Systems • SDLC • Cloud Computing
-
-</p>
-
-<p>
-
-<strong>Tools:</strong><br>
-VS Code • Postman • Figma • IntelliJ IDEA • Copilot • Claude Code • n8n
-
-</p>
-
 <br>
 
 <p align="left">
