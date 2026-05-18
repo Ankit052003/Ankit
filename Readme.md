@@ -25,15 +25,20 @@
 <td width="60%" valign="top">
 
 <p align="justify">
-
+<ul>
+  <li>
 I am a Full Stack Developer with a strong interest in building scalable, user-focused, and practical web applications.
-
+</li>
+  <li>
 My work primarily revolves around modern web technologies, backend development, and solving real-world problems through software.
-
+</li>
+  <li>
 I am currently focused on improving my development workflow, strengthening problem-solving skills, and building production-ready projects.
-
+</li>
+  <li>
 I enjoy learning new technologies, building impactful projects, and continuously improving my skills as a software developer.
-
+    </li>
+</ul>
 </p>
 
 </td>
