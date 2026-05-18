@@ -44,13 +44,13 @@ I enjoy learning new technologies, building impactful projects, and continuously
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
   alt="Coding Animation"
   style="
-    width:75%;
-    max-width:240px;
-    height:auto;
+    width:100%;
+    max-width:250px;
+    max-height:250px;
     object-fit:contain;
-    border-radius:10px;
     display:block;
     margin:auto;
+    border-radius:10px;
   "
 />
 
