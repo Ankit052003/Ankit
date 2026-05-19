@@ -93,7 +93,7 @@ I enjoy learning new technologies, building impactful projects, and continuously
 <p align="left">
 
 <img 
-  src="https://skillicons.dev/icons?i=c,java,js,ts,python,react,nodejs,express,tailwind,fastapi,mongodb,mysql,postgres,git,github,postman,vscode,figma,idea" 
+  src="https://skillicons.dev/icons?i=c,java,js,ts,python,react,nodejs,express,tailwind,fastapi,mongodb,mysql,postgres,git,github,postman,vscode,figma,idea,notion,docker,jupyter" 
 />
 
 </p>
