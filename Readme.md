@@ -1,4 +1,4 @@
-<h1 align="center">Ankit Kumar Singh</h1>
+<h1 align="center">Ankit Kumar</h1>
 <h3 align="center">Full Stack Developer | MERN Stack | Problem Solver</h3>
 
 <p align="center">
