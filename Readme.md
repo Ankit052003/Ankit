@@ -5,8 +5,8 @@
   <a href="https://x.com/ANKIT052003" target="_blank" rel="noopener noreferrer">Twitter</a> |
   <a href="https://www.linkedin.com/in/ankit-kumar-501356301/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
   <a href="mailto:ankitaur2022@gmail.com">Email</a> |
-  <a href="https://ankittkr.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>
-   <a href="[https://ankittkr.vercel.app/](https://drive.google.com/file/d/1WXIZRPcaDCkZ3OlHtvthWz7q6yYNok3p/view?usp=sharing)" target="_blank" rel="noopener noreferrer">Resume</a>
+  <a href="https://ankittkr.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a> |
+  <a href="https://drive.google.com/file/d/1WXIZRPcaDCkZ3OlHtvthWz7q6yYNok3p/view?usp=sharing">Email</a>
 </p>
 
 <p align="center">
