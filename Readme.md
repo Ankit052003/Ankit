@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/ankit-kumar-501356301/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
   <a href="mailto:ankitaur2022@gmail.com">Email</a> |
   <a href="https://ankittkr.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a> |
-  <a href="https://drive.google.com/file/d/1WXIZRPcaDCkZ3OlHtvthWz7q6yYNok3p/view?usp=sharing">Email</a>
+  <a href="https://drive.google.com/file/d/1WXIZRPcaDCkZ3OlHtvthWz7q6yYNok3p/view?usp=sharing">Resume</a>
 </p>
 
 <p align="center">
