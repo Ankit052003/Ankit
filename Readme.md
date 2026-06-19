@@ -75,6 +75,10 @@ I enjoy learning new technologies, building impactful projects, and continuously
   </li>
 
   <li>
+    <strong>HRMS</strong> – Full-Stack Human Resource Management System
+  </li>
+
+  <li>
     <strong>E-Commerce Website</strong> – Full Stack shopping application
   </li>
 
