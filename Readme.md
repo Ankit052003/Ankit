@@ -79,6 +79,11 @@ I enjoy learning new technologies, building impactful projects, and continuously
   </li>
 
   <li>
+    <strong>Automation Agent</strong> – Biltrax-Automation-Agent
+  </li>
+
+
+  <li>
     <strong>E-Commerce Website</strong> – Full Stack shopping application
   </li>
 
