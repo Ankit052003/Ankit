@@ -69,7 +69,7 @@ I enjoy learning new technologies, building impactful projects, and continuously
 
 <h2 align="left">Selected Work</h2>
 
-<ul>
+<ol>
   <li>
     <strong>PrepAI</strong> – Interview preparation platform
   </li>
@@ -94,7 +94,7 @@ I enjoy learning new technologies, building impactful projects, and continuously
   <li>
     <strong>Handloom Gathering Website</strong> – Platform for showcasing handloom products
   </li>
-</ul>
+</ol>
 
 ---
 
