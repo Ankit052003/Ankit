@@ -123,5 +123,6 @@ I enjoy learning new technologies, building impactful projects, and continuously
 
 ---
 
-<h2 align="left">The world is full of obvious things which nobody by any chance ever observes.</h2>
+<h2>The world is full of obvious things which nobody by any chance ever observes.</h2>
+
 
