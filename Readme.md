@@ -123,8 +123,5 @@ I enjoy learning new technologies, building impactful projects, and continuously
 
 ---
 
-<h2 align="left">Contact</h2>
+<h2 align="left">The world is full of obvious things which nobody by any chance ever observes.</h2>
 
-<p>
-If you would like to collaborate, discuss projects, or connect professionally, feel free to reach out through email, LinkedIn, or my portfolio.
-</p>
