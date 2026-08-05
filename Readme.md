@@ -114,10 +114,7 @@ I enjoy learning new technologies, building impactful projects, and continuously
 
 <p align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit052003&bg_color=0d1117&color=ffffff&line=3b82f6&point=ffffff&area=true&hide_border=true"
-  alt="Contribution Graph"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit052003&theme=github-dark&hide_border=true" />
 
 </p>
 
