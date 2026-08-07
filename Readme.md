@@ -98,18 +98,6 @@ I enjoy learning new technologies, building impactful projects, and continuously
 
 ---
 
-<h2 align="left">Technology Stack</h2>
-
-<p align="left">
-
-<img 
-  src="https://skillicons.dev/icons?i=c,java,js,ts,python,react,nodejs,express,tailwind,fastapi,mongodb,mysql,postgres,git,github,postman,vscode,figma,idea,notion,docker,jupyter" 
-/>
-
-</p>
-
----
-
 <h2 align="left">Contribution Activity</h2>
 
 <p align="center">
