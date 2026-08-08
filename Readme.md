@@ -106,14 +106,19 @@ I enjoy learning new technologies, building impactful projects, and continuously
 
 ---
 
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ankit052003&theme=github_dark" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ankit052003&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit052003&layout=compact&theme=react&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit052003&theme=react&hide_border=true" />
+</p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ankit052003&theme=github_dark&utcOffset=5.5" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit052003&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
