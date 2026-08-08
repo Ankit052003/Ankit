@@ -1,5 +1,5 @@
 <h1 align="center">Ankit Kumar</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | Problem Solver | AI Engineer</h3>
 
 <p align="center">
   <a href="https://x.com/ANKIT052003" target="_blank" rel="noopener noreferrer">Twitter</a> |
