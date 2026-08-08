@@ -98,17 +98,21 @@ I enjoy learning new technologies, building impactful projects, and continuously
 
 ---
 
-<h2 align="left">Contribution Activity</h2>
+## Contribution Activity
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit052003&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit052003&theme=github-dark&hide_border=true" />
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit052003&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-<h2 align = "center">The world is full of obvious things which nobody by any chance ever observes.</h2>
+<p align="center">
+  <em>"The world is full of obvious things which nobody, by any chance, ever observes."</em>
+</p>
 
 
 
