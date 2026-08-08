@@ -25,9 +25,20 @@
 
 <td width="60%" valign="top">
 
-<p align="justify">
-Full Stack Developer with hands-on experience building scalable, production-ready web applications using React.js, Next.js, Node.js, Express.js, TypeScript, PostgreSQL, and MongoDB. Skilled in REST API development, LLM integration, and AI-powered automation, with a strong focus on clean architecture, performance optimization, and real-world problem-solving. Currently deepening expertise in AI/LLM engineering — including LangChain, LangGraph, and AI agents — while continuously refining development workflows and technical depth. Passionate about learning new technologies and shipping impactful, user-focused software.
-</p>
+<ul>
+  <li>
+I am a Full Stack Developer with a strong interest in building scalable, user-focused, and practical web applications.
+</li>
+  <li>
+My work primarily revolves around modern web technologies, backend development, and solving real-world problems through software.
+</li>
+  <li>
+I am currently focused on improving my development workflow, strengthening problem-solving skills, and building production-ready projects.
+</li>
+  <li>
+I enjoy learning new technologies, building impactful projects, and continuously improving my skills as a software developer.
+    </li>
+</ul>
 
 </td>
 
