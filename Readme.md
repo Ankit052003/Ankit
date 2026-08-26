@@ -96,11 +96,9 @@ I enjoy learning new technologies, building impactful projects, and continuously
 
 ---
 
-## Contribution Activity
-
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit052003"
+    src="https://your-activity-graph.vercel.app/graph?username=Ankit052003&theme=react-dark&hide_border=true&area=true"
     alt="Ankit's GitHub Activity Graph"
   />
 </p>
