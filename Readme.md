@@ -32,6 +32,9 @@
  <li>
    Experienced in AI/LLM integrations, real-time applications, REST APIs, and voice-based systems, with projects involving OpenAI Realtime API, FastAPI, Twilio,       WebSockets, and modern frontend architectures.
  </li>
+  <li>
+    Strong problem-solving and development skills with experience in API integration, database optimization, authentication, reusable UI development, and debugging, focused on delivering reliable and user-friendly applications.
+  </li>
 </ul>
 
 </td>
