@@ -27,17 +27,11 @@
 
 <ul>
   <li>
-I am a Full Stack Developer with a strong interest in building scalable, user-focused, and practical web applications.
+  Full Stack Engineer with hands-on experience building end-to-end web applications using React, Next.js, TypeScript, Node.js, and PostgreSQL/MongoDB, with a         strong focus on responsive, scalable, and performance-oriented products.
 </li>
-  <li>
-My work primarily revolves around modern web technologies, backend development, and solving real-world problems through software.
-</li>
-  <li>
-I am currently focused on improving my development workflow, strengthening problem-solving skills, and building production-ready projects.
-</li>
-  <li>
-I enjoy learning new technologies, building impactful projects, and continuously improving my skills as a software developer.
-    </li>
+ <li>
+   Experienced in AI/LLM integrations, real-time applications, REST APIs, and voice-based systems, with projects involving OpenAI Realtime API, FastAPI, Twilio,       WebSockets, and modern frontend architectures.
+ </li>
 </ul>
 
 </td>
