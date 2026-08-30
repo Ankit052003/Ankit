@@ -66,28 +66,13 @@
 
 <ol>
   <li>
-    <strong>PrepAI</strong> – Interview preparation platform
+    Stayline AI — Real-time AI voice agent for hotel bookings that handles customer calls, searches inventory, captures preferences, and confirms reservations.
   </li>
-
   <li>
-    <strong>HRMS</strong> – Full-Stack Human Resource Management System
+    PrepAI – Mock Interview Platform — AI-powered interview platform that generates personalized questions, conducts voice interviews, and provides structured feedback using LLMs.
   </li>
-
   <li>
-    <strong>Automation Agent</strong> – Biltrax-Automation-Agent
-  </li>
-
-
-  <li>
-    <strong>E-Commerce Website</strong> – Full Stack shopping application
-  </li>
-
-  <li>
-    <strong>Advanced Weather Station</strong> – Real-time weather application
-  </li>
-
-  <li>
-    <strong>Handloom Gathering Website</strong> – Platform for showcasing handloom products
+    Sweet Home Consultancy — Responsive Next.js web application featuring interactive project galleries, animations, type-safe forms, and WhatsApp-based inquiry routing.
   </li>
 </ol>
 
