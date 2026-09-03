@@ -22,35 +22,27 @@
 
 <table>
 <tr>
+<td width="70%" valign="top">
 
-<td width="60%" valign="top">
-
-<ul>
-  <li>
-   Full Stack Engineer building scalable web applications and AI-powered systems with React, Next.js, TypeScript, Node.js, and modern databases. Experienced in       AI/LLM integrations, real-time applications, REST APIs, voice systems, and performance-focused development.
-  </li>
-</ul>
+<p>
+Full Stack Engineer building scalable web applications and AI-powered systems
+with React, Next.js, TypeScript, Node.js, and modern databases. Experienced in
+AI/LLM integrations, real-time applications, REST APIs, voice systems, and
+performance-focused development.
+</p>
 
 </td>
 
-<td width="40%" align="center">
+<td width="30%" align="center" valign="top">
 
-<img 
+<img
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
   alt="Coding Animation"
-  style="
-    width:100%;
-    max-width:250px;
-    max-height:250px;
-    object-fit:contain;
-    display:block;
-    margin:auto;
-    border-radius:10px;
-  "
+  width="180"
+  style="border-radius:10px;"
 />
 
 </td>
-
 </tr>
 </table>
 
