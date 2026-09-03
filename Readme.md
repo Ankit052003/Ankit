@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
+<h1 align="center">Hi , I'm Ankit Kumar</h1>
 
 <h3 align="center">
   Full Stack Developer • AI Engineer • Problem Solver
@@ -36,16 +36,16 @@
 
 I'm a **Full Stack Developer and AI Engineer** focused on building practical, scalable, and user-friendly products.
 
-- 🚀 Building full-stack applications using **React, Next.js, TypeScript and Node.js**
-- 🤖 Working with **AI/LLMs, voice agents and intelligent automation**
-- 🧠 Strong interest in **system design, APIs, databases and problem solving**
-- ⚡ Experienced in building **real-time and production-oriented applications**
-- 🔧 Enjoy turning complex requirements into simple and reliable products
-- 📚 Continuously learning and experimenting with emerging technologies
+- Building full-stack applications using **React, Next.js, TypeScript and Node.js**
+- Working with **AI/LLMs, voice agents and intelligent automation**
+- Strong interest in **system design, APIs, databases and problem solving**
+- Experienced in building **real-time and production-oriented applications**
+- Enjoy turning complex requirements into simple and reliable products
+- Continuously learning and experimenting with emerging technologies
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -81,13 +81,13 @@ I'm a **Full Stack Developer and AI Engineer** focused on building practical, sc
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Stayline AI
+### Stayline AI
 
 **Real-time AI Voice Hotel Agent**
 
@@ -107,7 +107,7 @@ An AI-powered voice agent designed for hotel booking workflows.
 
 <td width="50%" valign="top">
 
-### 🧠 PrepAI
+### PrepAI
 
 **AI Mock Interview Platform**
 
@@ -149,7 +149,7 @@ A responsive real-estate web application focused on performance, usability and c
 
 <td width="50%" valign="top">
 
-### 👥 HR Management System
+### HR Management System
 
 **Full Stack Enterprise Application**
 
