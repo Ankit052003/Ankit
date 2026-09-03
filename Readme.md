@@ -20,30 +20,30 @@
 
 <h2 align="left">Professional Summary</h2>
 
-<table>
-<tr>
-<td width="70%" valign="top">
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="72%" valign="middle" style="padding: 0 12px 0 0;">
 
-<p>
-Full Stack Engineer building scalable web applications and AI-powered systems
-with React, Next.js, TypeScript, Node.js, and modern databases. Experienced in
-AI/LLM integrations, real-time applications, REST APIs, voice systems, and
-performance-focused development.
-</p>
+      <p style="margin: 0;">
+        Full Stack Engineer building scalable web applications and AI-powered
+        systems with React, Next.js, TypeScript, Node.js, and modern databases.
+        Experienced in AI/LLM integrations, real-time applications, REST APIs,
+        voice systems, and performance-focused development.
+      </p>
 
-</td>
+    </td>
 
-<td width="30%" align="center" valign="top">
+    <td width="28%" align="center" valign="middle" style="padding: 0;">
 
-<img
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  alt="Coding Animation"
-  width="180"
-  style="border-radius:10px;"
-/>
+      <img
+        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+        alt="Coding Animation"
+        width="160"
+        style="display: block; margin: 0; border-radius: 8px;"
+      />
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 ---
