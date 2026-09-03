@@ -27,13 +27,7 @@
 
 <ul>
   <li>
-  Full Stack Engineer with hands-on experience building end-to-end web applications using React, Next.js, TypeScript, Node.js, and PostgreSQL/MongoDB, with a         strong focus on responsive, scalable, and performance-oriented products.
-</li>
- <li>
-   Experienced in AI/LLM integrations, real-time applications, REST APIs, and voice-based systems, with projects involving OpenAI Realtime API, FastAPI, Twilio,       WebSockets, and modern frontend architectures.
- </li>
-  <li>
-    Strong problem-solving and development skills with experience in API integration, database optimization, authentication, reusable UI development, and debugging, focused on delivering reliable and user-friendly applications.
+   Full Stack Engineer building scalable web applications and AI-powered systems with React, Next.js, TypeScript, Node.js, and modern databases. Experienced in       AI/LLM integrations, real-time applications, REST APIs, voice systems, and performance-focused development.
   </li>
 </ul>
 
