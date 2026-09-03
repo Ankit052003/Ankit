@@ -1,25 +1,25 @@
-<h1 align="center">Hi , I'm Ankit Kumar</h1>
+<h1 align="center">Hi, I'm Ankit Kumar</h1>
 
 <h3 align="center">
-  Full Stack Developer • AI Engineer • Problem Solver
+  Full Stack Developer | AI Engineer | Problem Solver
 </h3>
 
 <p align="center">
-  Building scalable web applications and AI-powered products with modern technologies.
+  I build scalable web applications, AI-powered products, and real-time systems.
 </p>
 
 <p align="center">
   <a href="https://ankittkr.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ankit-kumar-501356301/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Ankit052003" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:ankitaur2022@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -32,20 +32,20 @@
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a **Full Stack Developer and AI Engineer** focused on building practical, scalable, and user-friendly products.
+I'm a Full Stack Developer and AI Engineer focused on building reliable, scalable, and user-centric software.
 
-- Building full-stack applications using **React, Next.js, TypeScript and Node.js**
-- Working with **AI/LLMs, voice agents and intelligent automation**
-- Strong interest in **system design, APIs, databases and problem solving**
-- Experienced in building **real-time and production-oriented applications**
-- Enjoy turning complex requirements into simple and reliable products
-- Continuously learning and experimenting with emerging technologies
+- Building end-to-end applications with **React, Next.js, TypeScript, and Node.js**
+- Developing **AI/LLM-powered applications, voice agents, and intelligent automation**
+- Designing **REST APIs, real-time systems, authentication, and database-driven applications**
+- Working with **PostgreSQL, MongoDB, Prisma, Supabase, and modern cloud platforms**
+- Focused on **performance, clean architecture, reusable components, and maintainable code**
+- Continuously exploring **AI agents, LLM systems, and production-grade application architecture**
 
 ---
 
-## Tech Stack
+## Technology Stack
 
 ### Frontend
 
@@ -53,19 +53,19 @@ I'm a **Full Stack Developer and AI Engineer** focused on building practical, sc
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
 </p>
 
-### Backend & APIs
+### Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
 </p>
 
-### Databases & Infrastructure
+### Databases & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,supabase,docker,vercel" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,supabase,docker,vercel" />
 </p>
 
-### AI & Development Tools
+### AI & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
@@ -83,90 +83,138 @@ I'm a **Full Stack Developer and AI Engineer** focused on building practical, sc
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### Stayline AI
 
-**Real-time AI Voice Hotel Agent**
+**Real-Time AI Voice Agent for Hotel Bookings**
 
-An AI-powered voice agent designed for hotel booking workflows.
+An AI-powered voice system designed to automate hotel booking conversations and reservation workflows.
 
-**Highlights**
+**Key capabilities**
+
 - Real-time voice conversations
-- Hotel inventory search
-- Customer preference handling
-- Reservation confirmation
-- AI-driven conversation flow
+- Hotel inventory and availability search
+- Customer preference collection
+- Booking and reservation workflows
+- AI-driven conversation management
 
-**Tech:**  
-`Next.js` `TypeScript` `AI` `WebSockets` `APIs`
+**Stack:** `Next.js` `TypeScript` `AI` `WebSockets` `APIs`
 
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### PrepAI
 
-**AI Mock Interview Platform**
+**AI-Powered Mock Interview Platform**
 
-An intelligent interview platform that creates personalized interview experiences based on a candidate's resume.
+An intelligent interview platform that generates personalized interviews from a candidate's resume and evaluates responses using LLMs.
 
-**Highlights**
-- AI-generated interview questions
-- Voice & text interviews
-- Automated evaluation
-- Structured feedback
-- Performance improvement suggestions
+**Key capabilities**
 
-**Tech:**  
-`MERN` `Gemini` `Groq` `AI` `WebSockets`
+- Resume-based question generation
+- Voice and text interviews
+- Automated response evaluation
+- Structured performance feedback
+- Personalized improvement suggestions
 
-</td>
-</tr>
+**Stack:** `React` `Node.js` `MongoDB` `Gemini` `Groq` `AI`
 
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🏠 Sweet Home Consultancy
+### Sweet Home Consultancy
 
-**Modern Real Estate Platform**
+**Modern Real Estate Web Application**
 
-A responsive real-estate web application focused on performance, usability and conversion.
+A responsive Next.js platform designed to showcase real-estate projects while providing a smooth inquiry experience.
 
-**Highlights**
+**Key capabilities**
+
 - Interactive project galleries
-- Responsive UI
-- Smooth animations
+- Responsive and performance-focused UI
+- Smooth page animations
 - Type-safe forms
 - WhatsApp inquiry integration
 
-**Tech:**  
-`Next.js` `TypeScript` `Tailwind CSS`
+**Stack:** `Next.js` `TypeScript` `Tailwind CSS`
 
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### HR Management System
 
-**Full Stack Enterprise Application**
+**Full Stack Enterprise HR Platform**
 
-A comprehensive HR platform designed to manage employee and organizational workflows.
+A comprehensive HR management system designed to streamline employee and organizational workflows.
 
-**Modules**
+**Core modules**
+
 - Employee management
-- Attendance
+- Attendance management
 - Leave management
 - Payroll
 - Recruitment
 - Performance management
-- AI HR Assistant
+- AI-powered HR Assistant
 
-**Tech:**  
-`Node.js` `PostgreSQL` `Prisma` `JWT` `Socket.IO`
+**Stack:** `Node.js` `Express` `PostgreSQL` `Prisma` `JWT` `Socket.IO`
 
-</td>
-</tr>
-</table>
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ankit052003&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit052003&layout=compact&hide_border=true&theme=transparent"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Ankit052003&hide_border=true&theme=transparent"
+    height="170"
+  />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit052003&theme=github-compact&hide_border=true&area=true"
+    width="95%"
+  />
+</p>
+
+---
+
+## Currently Working On
+
+| Area | Focus |
+|---|---|
+| Full Stack Development | Scalable web applications and production-ready systems |
+| Artificial Intelligence | AI agents, LLM applications, and intelligent automation |
+| Backend Architecture | APIs, databases, authentication, and real-time systems |
+| Engineering | System design, performance, clean architecture, and DSA |
+
+---
+
+## Let's Connect
+
+<p align="center">
+  <a href="https://ankittkr.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ankit-kumar-501356301/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ankitaur2022@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"The world is full of obvious things which nobody, by any chance, ever observes."</i>
+</p>
