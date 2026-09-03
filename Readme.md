@@ -1,66 +1,18 @@
 <h1 align="center">Ankit Kumar</h1>
-
-<h3 align="center">
-  Full Stack Developer | Problem Solver | AI Engineer
-</h3>
+<h3 align="center">Full Stack Developer | Problem Solver | AI Engineer</h3>
 
 <p align="center">
-  Full Stack Engineer building scalable web applications and AI-powered systems
-  with React, Next.js, TypeScript, Node.js, and modern databases.
+  <a href="https://x.com/ANKIT052003" target="_blank" rel="noopener noreferrer">Twitter</a> |
+  <a href="https://www.linkedin.com/in/ankit-kumar-501356301/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
+  <a href="mailto:ankitaur2022@gmail.com">Email</a> |
+  <a href="https://ankittkr.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a> |
+  <a href="https://drive.google.com/file/d/1WXIZRPcaDCkZ3OlHtvthWz7q6yYNok3p/view?usp=sharing">Resume</a>
 </p>
 
 <p align="center">
-  <a href="https://x.com/ANKIT052003" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://cdn.simpleicons.org/x/ffffff"
-      alt="X"
-      width="28"
-      height="28"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ankit-kumar-501356301/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://cdn.simpleicons.org/linkedin/0A66C2"
-      alt="LinkedIn"
-      width="28"
-      height="28"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:ankitaur2022@gmail.com">
-    <img
-      src="https://cdn.simpleicons.org/gmail/EA4335"
-      alt="Email"
-      width="28"
-      height="28"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://ankittkr.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://cdn.simpleicons.org/googlechrome/4285F4"
-      alt="Portfolio"
-      width="28"
-      height="28"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1WXIZRPcaDCkZ3OlHtvthWz7q6yYNok3p/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://cdn.simpleicons.org/googledrive/4285F4"
-      alt="Resume"
-      width="28"
-      height="28"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=ankit052003&label=Profile%20Views&color=1f6feb&style=for-the-badge"
-    alt="Profile Views"
-    height="28"
+  <img 
+    src="https://komarev.com/ghpvc/?username=ankit052003&label=Profile%20Views&color=1f6feb&style=for-the-badge" 
+    alt="Profile Views" 
   />
 </p>
 
