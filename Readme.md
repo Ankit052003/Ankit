@@ -157,39 +157,6 @@ A comprehensive HR management system designed to streamline employee and organiz
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ankit052003&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit052003&layout=compact&hide_border=true&theme=transparent"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Ankit052003&hide_border=true&theme=transparent"
-    height="170"
-  />
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit052003&theme=github-compact&hide_border=true&area=true"
-    width="95%"
-  />
-</p>
-
----
-
 ## Currently Working On
 
 | Area | Focus |
@@ -201,20 +168,4 @@ A comprehensive HR management system designed to streamline employee and organiz
 
 ---
 
-## Let's Connect
 
-<p align="center">
-  <a href="https://ankittkr.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ankit-kumar-501356301/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ankitaur2022@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>"The world is full of obvious things which nobody, by any chance, ever observes."</i>
-</p>
