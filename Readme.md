@@ -20,30 +20,44 @@
 
 <h2 align="left">Professional Summary</h2>
 
-<table width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="72%" valign="middle" style="padding: 0 12px 0 0;">
+<table>
+<tr>
 
-      <p style="margin: 0;">
-        Full Stack Engineer building scalable web applications and AI-powered
-        systems with React, Next.js, TypeScript, Node.js, and modern databases.
-        Experienced in AI/LLM integrations, real-time applications, REST APIs,
-        voice systems, and performance-focused development.
-      </p>
+<td width="60%" valign="top">
 
-    </td>
+<ul>
+  <li>
+  Full Stack Engineer with hands-on experience building end-to-end web applications using React, Next.js, TypeScript, Node.js, and PostgreSQL/MongoDB, with a         strong focus on responsive, scalable, and performance-oriented products.
+</li>
+ <li>
+   Experienced in AI/LLM integrations, real-time applications, REST APIs, and voice-based systems, with projects involving OpenAI Realtime API, FastAPI, Twilio,       WebSockets, and modern frontend architectures.
+ </li>
+  <li>
+    Strong problem-solving and development skills with experience in API integration, database optimization, authentication, reusable UI development, and debugging, focused on delivering reliable and user-friendly applications.
+  </li>
+</ul>
 
-    <td width="28%" align="center" valign="middle" style="padding: 0;">
+</td>
 
-      <img
-        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-        alt="Coding Animation"
-        width="160"
-        style="display: block; margin: 0; border-radius: 8px;"
-      />
+<td width="40%" align="center">
 
-    </td>
-  </tr>
+<img 
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  alt="Coding Animation"
+  style="
+    width:100%;
+    max-width:250px;
+    max-height:250px;
+    object-fit:contain;
+    display:block;
+    margin:auto;
+    border-radius:10px;
+  "
+/>
+
+</td>
+
+</tr>
 </table>
 
 ---
@@ -67,3 +81,4 @@
 <p align="center">
   <em>"The world is full of obvious things which nobody, by any chance, ever observes."</em>
 </p>
+
